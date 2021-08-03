@@ -24,4 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 <br>
 <br>
 <br>
-<img src="https://github.com/Iamdheeraj21/calculator-flutter/blob/master/Output/Screenshot%20from%202021-08-02%2013-43-37.png/>
+<img src="https://github.com/Iamdheeraj21/calculator-flutter/blob/master/Output/Screenshot%20from%202021-08-02%2013-43-37.png"/>
